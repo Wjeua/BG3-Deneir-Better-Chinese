@@ -12,6 +12,7 @@
 
 </div>
 
+### 下载地址：https://www.nexusmods.com/baldursgate3/mods/23026
 
 ## 📖 缘起：为何开启这项庞大工程？
 
